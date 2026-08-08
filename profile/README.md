@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/mark.png" alt="" width="88" />
+<img src="assets/emblem.png" alt="" width="150" />
 
 <br/><br/>
 
