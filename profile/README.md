@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="assets/wordmark.png" alt="blaclab" width="300" />
+<img src="assets/wordmark.svg" alt="blaclab" />
 
 <br/><br/>
 
