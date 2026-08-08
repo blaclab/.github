@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="assets/emblem.png" alt="" width="150" />
+<img src="assets/mark-pegasus.png" alt="" width="120" />
 
-<br/><br/>
-
-<img src="assets/wordmark.png" alt="blaclab — building AI powered software" width="520" />
-
-<br/><br/>
+<picture>
+<source srcset="assets/wordmark-dark.png" media="(prefers-color-scheme: dark)" />
+<img src="assets/wordmark-light.png" alt="blaclab — building AI powered software" width="500" />
+</picture>
 
 **Software lab — products engineered end to end.**
 
@@ -15,8 +14,6 @@ the wallet is the account. Play economies with a ledger underneath. Assistants t
 answer for a business. One lab builds all of it — and holds it to one standard.
 
 <sub>Built to the same standard, whatever the surface.</sub>
-
-<br/>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -86,7 +83,7 @@ answer for a business. One lab builds all of it — and holds it to one standard
 
 <img src="assets/h-coordinates.svg" alt="COORDINATES" />
 
-<br/><br/>
+<br/>
 
 <sub>TIMEZONE</sub> &nbsp; **UTC−3 · São Paulo** &nbsp;&nbsp;&nbsp; <sub>SITE &amp; CHANNELS</sub> &nbsp; **being connected**
 
@@ -95,8 +92,6 @@ answer for a business. One lab builds all of it — and holds it to one standard
 **Start with one message.**
 
 <sub>The work above is the introduction — the site and direct channels arrive with the launch.</sub>
-
-<br/><br/>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
