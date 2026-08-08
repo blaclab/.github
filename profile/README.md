@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.jpg" alt="" width="100%" />
+<img src="assets/mark.png" alt="" width="88" />
 
 <br/><br/>
 
-<img src="assets/wordmark.svg" alt="blaclab" />
+<img src="assets/wordmark.png" alt="blaclab — building AI powered software" width="520" />
 
 <br/><br/>
 
