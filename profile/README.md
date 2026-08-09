@@ -24,23 +24,23 @@ answer for a business. One lab builds all of it — and holds it to one standard
 <table>
 <tr>
 <td align="center" width="90"><img src="assets/icon-web.png" width="44" alt="" /><br/><sub><b>WEB</b></sub></td>
-<td><b>Web Platforms</b><br/>Storefronts and product surfaces engineered from an empty repository to a paying customer — catalogue and checkout, payments that reconcile server-side, an operator console, and the gates that keep it safe to leave alone.<br/><sub>PROOF — A LIVE STORE, TEN WEEKS · NEXT.JS · NODE · PAYMENTS</sub></td>
+<td><b>Web Platforms</b><br/>Storefronts and product surfaces engineered from an empty repository to a paying customer — catalogue and checkout, payments that reconcile server-side, an operator console, and the gates that keep it safe to leave alone.<br/><sub>DELIVERED — A LIVE STORE, TEN WEEKS · NEXT.JS · NODE · PAYMENTS</sub></td>
 </tr>
 <tr>
 <td align="center" width="90"><img src="assets/icon-mobile.png" width="44" alt="" /><br/><sub><b>MOBILE</b></sub></td>
-<td><b>Mobile &amp; Mini Apps</b><br/>Products that live inside the app your audience already has open: verified sessions, deep-link campaign routing, wallet-native checkout, and theming that follows the client instead of fighting it.<br/><sub>PROOF — A YEAR IN THE LEAD SEAT · TWA · REACT · DEEP LINKS</sub></td>
+<td><b>Mobile &amp; Mini Apps</b><br/>Products that live inside the app your audience already has open: verified sessions, deep-link campaign routing, wallet-native checkout, and theming that follows the client instead of fighting it.<br/><sub>DELIVERED — A YEAR IN THE LEAD SEAT · TWA · REACT · DEEP LINKS</sub></td>
 </tr>
 <tr>
 <td align="center" width="90"><img src="assets/icon-blockchain.png" width="44" alt="" /><br/><sub><b>BLOCKCHAIN</b></sub></td>
-<td><b>Blockchain Systems</b><br/>On-chain products where the wallet is the account: signature auth, transactions the server composes and the client never assembles, ownership and subscription models across TON, Bitcoin and EVM.<br/><sub>PROOF — THREE CHAINS SHIPPED · TON · PSBT · EVM</sub></td>
+<td><b>Blockchain Systems</b><br/>On-chain products where the wallet is the account: signature auth, transactions the server composes and the client never assembles, ownership and subscription models across TON, Bitcoin and EVM.<br/><sub>DELIVERED — THREE CHAINS SHIPPED · TON · PSBT · EVM</sub></td>
 </tr>
 <tr>
 <td align="center" width="90"><img src="assets/icon-games.png" width="44" alt="" /><br/><sub><b>GAMES</b></sub></td>
-<td><b>Game Layers</b><br/>The loop that keeps an app open: 3D play rendered in-page, timed reward windows, referral tiers with an explicit claim — and the ledger underneath, because a reward economy is an accounting system before it is a game.<br/><sub>PROOF — A PLAY ECONOMY IN PRODUCTION · R3F · WEBGL</sub></td>
+<td><b>Game Layers</b><br/>The loop that keeps an app open: 3D play rendered in-page, timed reward windows, referral tiers with an explicit claim — and the ledger underneath, because a reward economy is an accounting system before it is a game.<br/><sub>DELIVERED — A PLAY ECONOMY IN PRODUCTION · R3F · WEBGL</sub></td>
 </tr>
 <tr>
 <td align="center" width="90"><img src="assets/icon-ai.png" width="44" alt="" /><br/><sub><b>AI</b></sub></td>
-<td><b>AI Systems</b><br/>Assistants that answer for a business rather than a demo: intent routing, hardened prompts, bot checks that fail closed, and delivery into the channel where people actually reply — all running at the edge.<br/><sub>PROOF — A CONCIERGE FILLING A CALENDAR · WORKERS AI · EDGE</sub></td>
+<td><b>AI Systems</b><br/>Assistants that answer for a business rather than a demo: intent routing, hardened prompts, bot checks that fail closed, and delivery into the channel where people actually reply — all running at the edge.<br/><sub>DELIVERED — A CONCIERGE FILLING A CALENDAR · WORKERS AI · EDGE</sub></td>
 </tr>
 </table>
 
